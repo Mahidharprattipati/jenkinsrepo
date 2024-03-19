@@ -1,4 +1,4 @@
 echo "i love my india"
 date
-cal 
+cal  -y 2024 
 echo "bye"
